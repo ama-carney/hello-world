@@ -1,3 +1,3 @@
 # hello-world
-so i guess i just write some things here 
-to see how github works
+
+just writing some things to figure out how this works
